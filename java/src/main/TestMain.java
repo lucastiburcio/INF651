@@ -14,7 +14,7 @@ public class TestMain {
 
 	public static double PORCENTAGEM_PROCURADA = 0.05; // custo 10% menor
 
-	@Test
+//	@Test
 	public void test() throws IOException {
 		
 		//tente 1000000 de cenários
